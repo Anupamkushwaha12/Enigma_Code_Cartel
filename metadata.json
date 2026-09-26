@@ -1,0 +1,6 @@
+{
+  "name": "AXIA - Managed B2B Resource Exchange",
+  "description": "Where Surplus Finds Its Next Value. A managed B2B resource-exchange infrastructure platform connecting surplus resources with viable demand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
