@@ -1,3 +1,9 @@
+Team Name: code_cartal
+Members: Anupam Kushwaha
+           Rahil Majithia
+           Mohammed Amaan Shaikh
+           Krishi Oza
+
 # AXIA - Managed B2B Resource Exchange
 
 AXIA is an active, managed B2B resource-exchange infrastructure platform that helps industrial enterprises and IT asset disposition (ITAD) teams move surplus resources to markets where they have meaningful value.
@@ -124,7 +130,3 @@ src/
   types/        Shared TypeScript domain models
   utils/        Matching, landed-cost, and impact calculation engines
 ```
-
-## License
-
-No license has been specified for this repository yet.
